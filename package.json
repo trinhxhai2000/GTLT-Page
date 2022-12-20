@@ -20,6 +20,8 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "sass": "^1.57.1",
+    "svelte-routing": "^1.6.0"
   }
 }
